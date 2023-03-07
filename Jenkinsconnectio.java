@@ -5,6 +5,7 @@ System.out.println(" whenever i am pushed a build gonna automatically run in jen
 System.out.println(" hi i am from git");
 System.out.prinln("i can travel");
 System.out.prinln("never lose hope.try ur best");
+System.out.prinln("bye bye");
 
 }
 
